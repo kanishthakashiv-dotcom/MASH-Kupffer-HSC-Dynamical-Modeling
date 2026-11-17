@@ -1,0 +1,14 @@
+"Type","Perturbation","Node1","Node2","Final_COL1A1_ACTA2","Final_YAP1_TAZ","Final_PPARG_HSC","Fibrotic_Collapse_Pct","Attractor_Reverted"
+"Single_Node","COL1A1_ACTA2_KD","COL1A1_ACTA2","None",0.015,0,2.418,100,TRUE
+"Single_Node","IL10_PPARG_ACT","IL10_PPARG","None",0.06,0,2.686,100,TRUE
+"Single_Node","NFkB_HSC_KD","NFkB_HSC","None",0.06,0,2.418,100,TRUE
+"Single_Node","PDGFRB_ERK_KD","PDGFRB_ERK","None",0.06,0,2.418,100,TRUE
+"Single_Node","PPARG_HSC_ACT","PPARG_HSC","None",0.06,0,5.319,100,TRUE
+"Single_Node","TGFB1_KD","TGFB1","None",0.06,0,2.418,100,TRUE
+"Single_Node","TIMP1_KD","TIMP1","None",0.06,0,2.418,100,TRUE
+"Single_Node","TLR4_NFkB_KD","TLR4_NFkB","None",0.06,0,2.418,100,TRUE
+"Single_Node","TNF_IL1B_KD","TNF_IL1B","None",0.06,0,2.418,100,TRUE
+"Single_Node","TREM2_SPP1_KD","TREM2_SPP1","None",0.06,0,2.418,100,TRUE
+"Single_Node","YAP1_TAZ_KD","YAP1_TAZ","None",0.06,0,2.418,100,TRUE
+"Single_Node","TGFBR_SMAD3_KD","TGFBR_SMAD3","None",0.06,0,2.418,19.88,TRUE
+"Single_Node","SMAD7_ACT","SMAD7","None",0.06,0,2.418,0.11,TRUE
